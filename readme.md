@@ -1,4 +1,4 @@
-# Prueba técnica Dumas Cat App
+# Challenge Dumas Cat App
 
 Prueba técnica, en la cual realizé una app para mostrar imagenes de gatos, crear un nuevo gato, editarlo o eliminarlo.
 
